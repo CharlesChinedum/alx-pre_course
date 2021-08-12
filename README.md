@@ -1,0 +1,1 @@
+This project aims at helping you understand and implent Git in your projects.
